@@ -1,0 +1,5 @@
+gradio
+transformers<5.0.0
+accelerate
+torch
+pandas
